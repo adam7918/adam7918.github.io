@@ -39,6 +39,12 @@ h1 {
     max-width: 655px;
     padding-bottom: 5px;
 }
+::selection {
+    background: #010727; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #010727; /* Gecko Browsers */
+}
 .bold {
     font-weight: 600;
 }
