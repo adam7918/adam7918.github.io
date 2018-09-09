@@ -64,6 +64,7 @@ section {
     margin-top: 70px;
     margin: 0 auto;
     text-align: center;
+    max-width: 655px;
 }
 footer {
     margin: 0 auto 45px;
