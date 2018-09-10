@@ -67,7 +67,8 @@ section {
     max-width: 655px;
 }
 footer {
-    margin: 0 auto 45px;
+    margin: 0 auto;
+    padding-bottom: 45px;
     text-align: center;
 }
 footer a {
